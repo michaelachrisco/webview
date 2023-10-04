@@ -21,7 +21,7 @@ public class MainActivity extends Activity {
         mWebView.setWebViewClient(new MyWebViewClient());
 
         // REMOTE RESOURCE
-         mWebView.loadUrl("https://www.royalroad.com/home");
+         mWebView.loadUrl("https://rootaccess.org/");
 
         // LOCAL RESOURCE
         // mWebView.loadUrl("file:///android_asset/index.html");
